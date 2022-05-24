@@ -3,9 +3,9 @@ The Project aims to predict student marks using Bayesian Linear Regression. Mark
 The features are:  
 * Mother education  
 * Father education  
-*Studytime 
-*Previous class failures 
-*Higher education 
-*Absences 
+* Studytime 
+* Previous class failures 
+* Higher education 
+* Absences 
 
 The project is built in Python3.  Bayesian regression is implemented using pymc3 module. An intuitive user interface is also provided using tkinter module.
